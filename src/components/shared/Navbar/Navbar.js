@@ -26,7 +26,7 @@ const Navbar = () => {
         <Disclosure as="nav" className={`w-full fixed top-0 z-50 ${!scroll ? "bg-transparent transition duration-500" : "bg-white shadow-md transition duration-500"}`}>
             {({ open }) => (
                 <>
-                    <div className="mx-auto px-4 py-1 sm:mx-[3%]">
+                    <div className="py-1 mx-[3%]">
                         <div className="relative flex h-16 items-center justify-between">
                             <div className="absolute inset-y-0 right-0 flex items-center sm:hidden">
                                 {/* Mobile menu button*/}
@@ -113,7 +113,7 @@ const Navbar = () => {
                         </div>
                     </div>
 
-                    <Disclosure.Panel className="sm:hidden">
+                    <Disclosure.Panel className="sm:hidden bg-white">
 
                         <div className="text-center flex flex-col justify-center items-center space-y-1 px-2 pt-2 pb-3">
                             {user && <Menu as="div" className="relative  ml-3">
