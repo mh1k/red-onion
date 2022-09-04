@@ -1,0 +1,23 @@
+[
+    {
+        "_id":"aboutus001",
+        "img":"https://i.ibb.co/C2rgzkK/adult-blur-blurred-background-687824.png",
+        "icon":"https://i.ibb.co/pKjbq42/Group-204.png",
+        "title":"Fast Delivery",
+        "details":"Keep your systems in sync with automated web hook bases notifications each tume link is paid and how we dream about our future."
+    },
+    {
+        "_id":"aboutus002",
+        "img":"https://i.ibb.co/wYhtNSf/chef-cook-food-33614.png",
+        "icon":"https://i.ibb.co/fC9wzxH/Group-1133.png",
+        "title":"A Good Auto Responder",
+        "details":"Keep your systems in sync with automated web hook bases notifications each tume link is paid and how we dream about our future."
+    },
+    {
+        "_id":"aboutus003",
+        "img":"https://i.ibb.co/2PgX1sF/architecture-building-city-2047397.png",
+        "icon":"https://i.ibb.co/YLj5QnX/Group-245.png",
+        "title":"Home Delivery",
+        "details":"Keep your systems in sync with automated web hook bases notifications each tume link is paid and how we dream about our future."
+    }
+]
